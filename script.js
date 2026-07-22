@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  background: #f0f0f0;
+}
+.poin {
+  font-size: 80px;
+  font-weight: bold;
+  margin: 30px;
+}
+#tombol {
+  font-size: 30px;
+  padding: 20px 40px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
